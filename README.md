@@ -30,5 +30,5 @@ This repository contains the source code and documentation for creating a custom
   
 <h1>Acknowledgments</h1>
 <li>Inspired by the simplicity and power of Linux shells.</li>
-
+</br> </br>
 Happy coding! 🚀
