@@ -1,11 +1,11 @@
 <h1>Introduction</h1>
 This repository contains the source code and documentation for creating a custom Linux shell in the C programming language. The shell is a command-line interpreter that facilitates interaction with the Linux operating system.
 
-Features
-Basic command execution
-Input and output redirection
-Pipe implementation
-Custom prompt design
+<h1>Features</h1>
+<li>Basic command execution</li>
+<li>Input and output redirection</li>
+<li>Pipe implementation</li>
+<li>Custom prompt design</li>
 Getting Started
 Prerequisites
 Linux operating system
