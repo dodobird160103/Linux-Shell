@@ -14,14 +14,14 @@ This repository contains the source code and documentation for creating a custom
 <li>ReadLine Library</li>
 
 <h3>Building the Shell</h3>
-1- Clone the repository: git clone https://github.com/dodobird160103/Linux-Shell.git
-2- Navigate to the project directory: cd Linux-Shell
-3- Install Readline Library: sudo apt-get install libreadline-dev
-4- Compile the shell: gcc main.c -o main -lreadline
+1- Clone the repository: git clone https://github.com/dodobird160103/Linux-Shell.git </br>
+2- Navigate to the project directory: cd Linux-Shell </br>
+3- Install Readline Library: sudo apt-get install libreadline-dev </br>
+4- Compile the shell: gcc main.c -o main -lreadline 
 
 <h3>Running the Shell</h3>
-1- Execute the compiled binary: ./main
-2- Start entering commands and exploring the shell functionalities.
+1- Execute the compiled binary: ./main </br>
+2- Start entering commands and exploring the shell functionalities. 
 
 <h1>Usage</h1>
 <li>Basic Commands: Enter standard Linux commands like ls, cd, pwd, etc.</li>
