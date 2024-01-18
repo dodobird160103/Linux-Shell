@@ -1,13 +1,9 @@
 /*
 	Created By
-		Eeman Safadar (FA21-BCE-021)
-		Farhan Kashif (FA21-BCE-022)
+		Farhan Kashif 
 
 	Dated
 		12/24/2023 
-	
-	Submitted To
-		Engr. Imran Lodhi
 */
 
 // Install Readline Library to store previous commands 
